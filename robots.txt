@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://edurang.kr/sitemap.xml
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://edurang.kr/sitemapx.xml
